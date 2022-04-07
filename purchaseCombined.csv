@@ -3420,7 +3420,6 @@ run,timeSinceLastPurchase,tick
 93,3.685121107,498
 93,3.730103806,499
 93,3.598615917,500
-5.00E+12,443,
 102,3.2,444
 102,3.1975,445
 102,3.2625,446
@@ -12312,8 +12311,6 @@ run,timeSinceLastPurchase,tick
 335,0,498
 335,0,499
 335,0,500
-,,
-run,timeSinceLastPurchase,tick
 6,0,1
 6,0,2
 6,0.396694215,3
@@ -15814,7 +15811,6 @@ run,timeSinceLastPurchase,tick
 96,3.117283951,498
 96,3.166666667,499
 96,3.015432099,500
-,,
 205,0,348
 205,0,349
 205,0,350
@@ -20468,7 +20464,6 @@ run,timeSinceLastPurchase,tick
 340,0,498
 340,0,499
 340,0,500
-565,23,
 197,0.05588585,24
 197,0.032104637,25
 197,0.013079667,26
@@ -25446,8 +25441,6 @@ run,timeSinceLastPurchase,tick
 332,0,498
 332,0,499
 332,0,500
-,,
-run,timeSinceLastPurchase,tick
 9,0,1
 9,0,2
 9,0.3125,3
@@ -28948,7 +28941,6 @@ run,timeSinceLastPurchase,tick
 99,2.512465374,498
 99,2.337950139,499
 99,2.412742382,500
-,470,
 101,0.1925,471
 101,0.19,472
 101,0.1875,473
@@ -36979,8 +36971,6 @@ run,timeSinceLastPurchase,tick
 341,0,498
 341,0,499
 341,0,500
-,,
-run,timeSinceLastPurchase,tick
 14,0,1
 14,0.535714286,2
 14,0.790816327,3
@@ -47297,7 +47287,6 @@ run,timeSinceLastPurchase,tick
 343,0,498
 343,0,499
 343,0,500
-1.08,154,
 209,1.11,155
 209,1.09,156
 209,1.01,157
@@ -52144,8 +52133,6 @@ run,timeSinceLastPurchase,tick
 344,0,498
 344,0,499
 344,0,500
-,,
-run,timeSinceLastPurchase,tick
 15,0,1
 15,0,2
 15,0.454081633,3
@@ -55646,8 +55633,6 @@ run,timeSinceLastPurchase,tick
 105,4.952380952,498
 105,4.85260771,499
 105,4.911564626,500
-,,
-run,timeSinceLastPurchase,tick
 5,0,1
 5,0,2
 5,0.53,3
@@ -64648,7 +64633,6 @@ run,timeSinceLastPurchase,tick
 260,0,498
 260,0,499
 260,0,500
-7,,
 226,0.99875,148
 226,0.89,149
 226,0.86375,150
@@ -67002,8 +66986,6 @@ run,timeSinceLastPurchase,tick
 286,0,498
 286,0,499
 286,0,500
-,,
-run,timeSinceLastPurchase,tick
 6,0,1
 6,0,2
 6,0.47,3
@@ -72232,7 +72214,6 @@ run,timeSinceLastPurchase,tick
 158,0,498
 158,0,499
 158,0,500
-,0,398
 152,0,399
 152,0,400
 152,0,401
@@ -72335,7 +72316,6 @@ run,timeSinceLastPurchase,tick
 152,0,498
 152,0,499
 152,0,500
-2.00E+14,419,
 111,0.192222222,420
 111,0.203333333,421
 111,0.228888889,422
@@ -77417,8 +77397,6 @@ run,timeSinceLastPurchase,tick
 261,0,498
 261,0,499
 261,0,500
-,,
-run,timeSinceLastPurchase,tick
 11,0,1
 11,0,2
 11,0.35,3
@@ -84069,7 +84047,6 @@ run,timeSinceLastPurchase,tick
 159,0,498
 159,0,499
 159,0,500
-0,,
 202,1.175,140
 202,1.205,141
 202,1.125,142
@@ -87431,8 +87408,6 @@ run,timeSinceLastPurchase,tick
 292,0,498
 292,0,499
 292,0,500
-,,
-run,timeSinceLastPurchase,tick
 12,0,1
 12,0,2
 12,0.385,3
@@ -90960,7 +90935,6 @@ run,timeSinceLastPurchase,tick
 105,0.26875,498
 105,0.285,499
 105,0.3025,500
-47,32,
 117,0.339,33
 117,0.308,34
 117,0.287,35
@@ -94429,7 +94403,6 @@ run,timeSinceLastPurchase,tick
 207,1.436,498
 207,1.308,499
 207,1.198,500
-24,410,
 238,1.04,411
 238,1.096,412
 238,1.038,413
@@ -96520,8 +96493,6 @@ run,timeSinceLastPurchase,tick
 298,0,498
 298,0,499
 298,0,500
-,,
-run,timeSinceLastPurchase,tick
 14,0,1
 14,0,2
 14,0,3
