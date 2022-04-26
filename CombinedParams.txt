@@ -1,2 +1,6 @@
-"run","randomSeed","stopTime","manip","numPlayers","strat","network"
-1,1032414514,10,"NONE",10,"ALWAYS_BUY","WATTS"
+"run","randomSeed","stopTime","manip","breakTies","numPlayers","strat","network"
+1,1674003975,500,"NONE","true",1000,"PRICE","WATTS"
+2,1674003575,500,"FREE_BOX","true",1000,"PRICE","WATTS"
+3,1674004810,500,"BIAS_BOX","true",1000,"PRICE","WATTS"
+4,1674005140,500,"FAV_PLAYER","true",1000,"PRICE","WATTS"
+5,1674005414,500,"LIM_ED","true",1000,"PRICE","WATTS"
