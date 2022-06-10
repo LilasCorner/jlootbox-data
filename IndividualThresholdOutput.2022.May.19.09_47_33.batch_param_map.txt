@@ -1,0 +1,4 @@
+"run","NLToroidal","NRLoop","noNetwork","manip","NWSym","numPlayers","network","strat","randomSeed","NRSym","memorySize","NWDegree","stopTime","NWBeta","NRDensity","breakTies"
+1,"true","false","true","NONE","true",1,"WATTS","ALWAYS_BUY",-590809067,"true",5,4,500,0.3,0.5,"true"
+3,"true","false","true","NONE","true",1,"WATTS","PRICE",-590808957,"true",5,4,500,0.3,0.5,"true"
+2,"true","false","true","NONE","true",1,"WATTS","COIN_FLIP",-590808957,"true",5,4,500,0.3,0.5,"true"
